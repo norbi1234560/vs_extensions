@@ -11,8 +11,9 @@ let extensions = [
   'svelte.svelte-vscode',
   'vue.volar',
   'jawandarajbir.react-vscode-extension-pack',
-  'bradlc.vscode-tailwindcss',
-  'austenc.tailwind-docs'
+  'hossaini.bootstrap-intellisense',
+  'syncfusioninc.document-viewer-vscode-extensions',
+  'xdebug.php-pack',
 ];
 
 let uniqueExtensions = [...new Set(extensions)];
